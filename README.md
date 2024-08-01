@@ -6,3 +6,25 @@
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I love painting in my free time
 
+Technical skills👩🏻‍💻:
+- HTML amd CSS (including Tailwind CSS)
+- Version control (mainly GIT)
+- Responsive design
+- Java
+- LaTex for Technical reports
+
+Soft skills🎀🪞🩰🦢🕯️:
+- Collaboration
+- Planning
+- Adaptability
+- Attention to detail
+- Creativity
+
+Project summary🚀:
+- Responsive personal portfolio website
+- Instagram profile page clone
+- Styling an animating buttons
+
+Certifications🏅:
+- Oracle Java Foundations Assosiate
+
